@@ -702,7 +702,7 @@ else if get_stage("%(bcb_dev)s") == "3/3" then
   script.Print("           |_____/   \_____/(______/           ")
   script.Print("                 Droid On Time                 ")
   script.Print("***********************************************")
-  script.Print("  Updated source on "github.com/manishjvora"   ")
+  script.Print("   Updated source on github.com/manishjvora    ")
   script.Print("***********************************************")
 
   if OPTIONS.backuptool:
